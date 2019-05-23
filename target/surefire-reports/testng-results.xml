@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="282558" started-at="2019-05-21T00:37:10Z" finished-at="2019-05-21T00:41:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="282558" started-at="2019-05-21T00:37:10Z" finished-at="2019-05-21T00:41:53Z">
+      <class name="com.CRM.qa.tests.CRMLandingpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="11856" started-at="2019-05-21T00:38:54Z" finished-at="2019-05-21T00:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifycontacttabTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="verifycontacttabTest" duration-ms="42" started-at="2019-05-21T00:39:06Z" finished-at="2019-05-21T00:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontacttabTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="107" started-at="2019-05-21T00:39:06Z" finished-at="2019-05-21T00:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="11318" started-at="2019-05-21T00:39:06Z" finished-at="2019-05-21T00:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifydealstabTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="verifydealstabTest" duration-ms="36" started-at="2019-05-21T00:39:17Z" finished-at="2019-05-21T00:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydealstabTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="139" started-at="2019-05-21T00:39:17Z" finished-at="2019-05-21T00:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="14306" started-at="2019-05-21T00:39:18Z" finished-at="2019-05-21T00:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifylandingpagetitleTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="verifylandingpagetitleTest" duration-ms="6" started-at="2019-05-21T00:39:32Z" finished-at="2019-05-21T00:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylandingpagetitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="169" started-at="2019-05-21T00:39:32Z" finished-at="2019-05-21T00:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="12228" started-at="2019-05-21T00:39:32Z" finished-at="2019-05-21T00:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifytasktabTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="verifytasktabTest" duration-ms="53" started-at="2019-05-21T00:39:44Z" finished-at="2019-05-21T00:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytasktabTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="169" started-at="2019-05-21T00:39:44Z" finished-at="2019-05-21T00:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="20835" started-at="2019-05-21T00:39:44Z" finished-at="2019-05-21T00:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyusernameTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="verifyusernameTest" duration-ms="50" started-at="2019-05-21T00:40:05Z" finished-at="2019-05-21T00:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyusernameTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="97" started-at="2019-05-21T00:40:05Z" finished-at="2019-05-21T00:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="22090" started-at="2019-05-21T00:40:05Z" finished-at="2019-05-21T00:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickonconatcttabTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="clickonconatcttabTest" duration-ms="1338" started-at="2019-05-21T00:40:28Z" depends-on-methods="com.CRM.qa.tests.CRMLandingpageTest.verifycontacttabTest" finished-at="2019-05-21T00:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonconatcttabTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="93" started-at="2019-05-21T00:40:29Z" finished-at="2019-05-21T00:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="35313" started-at="2019-05-21T00:40:29Z" finished-at="2019-05-21T00:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickondealstabTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="clickondealstabTest" duration-ms="1854" started-at="2019-05-21T00:41:04Z" depends-on-methods="com.CRM.qa.tests.CRMLandingpageTest.verifydealstabTest" finished-at="2019-05-21T00:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickondealstabTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="90" started-at="2019-05-21T00:41:06Z" finished-at="2019-05-21T00:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="setup" is-config="true" duration-ms="16427" started-at="2019-05-21T00:41:06Z" finished-at="2019-05-21T00:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickontasktabTest()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="clickontasktabTest" duration-ms="1352" started-at="2019-05-21T00:41:23Z" depends-on-methods="com.CRM.qa.tests.CRMLandingpageTest.verifytasktabTest" finished-at="2019-05-21T00:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickontasktabTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLandingpageTest@90f6bfd]" name="teardown" is-config="true" duration-ms="87" started-at="2019-05-21T00:41:24Z" finished-at="2019-05-21T00:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.CRM.qa.tests.CRMLandingpageTest -->
+      <class name="com.CRM.qa.tests.CRMContactTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="setup" is-config="true" duration-ms="13727" started-at="2019-05-21T00:37:10Z" finished-at="2019-05-21T00:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifycontacttablabelTest()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="verifycontacttablabelTest" duration-ms="39" started-at="2019-05-21T00:37:24Z" finished-at="2019-05-21T00:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontacttablabelTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="teardown" is-config="true" duration-ms="107" started-at="2019-05-21T00:37:24Z" finished-at="2019-05-21T00:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="setup" is-config="true" duration-ms="19766" started-at="2019-05-21T00:37:25Z" finished-at="2019-05-21T00:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifycreatenewcontact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="verifycreatenewcontact" duration-ms="5841" started-at="2019-05-21T00:37:45Z" data-provider="getCRMtestdata" finished-at="2019-05-21T00:37:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hain]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Movies]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycreatenewcontact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="teardown" is-config="true" duration-ms="110" started-at="2019-05-21T00:37:51Z" finished-at="2019-05-21T00:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="setup" is-config="true" duration-ms="24618" started-at="2019-05-21T00:37:51Z" finished-at="2019-05-21T00:38:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifycreatenewcontact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="verifycreatenewcontact" duration-ms="3944" started-at="2019-05-21T00:38:15Z" data-provider="getCRMtestdata" finished-at="2019-05-21T00:38:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ranjan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gogoi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ebay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycreatenewcontact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="teardown" is-config="true" duration-ms="104" started-at="2019-05-21T00:38:19Z" finished-at="2019-05-21T00:38:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="setup" is-config="true" duration-ms="17414" started-at="2019-05-21T00:38:20Z" finished-at="2019-05-21T00:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickoncheckboxTest()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="clickoncheckboxTest" duration-ms="505" started-at="2019-05-21T00:38:37Z" depends-on-methods="com.CRM.qa.tests.CRMContactTest.verifycontacttablabelTest" finished-at="2019-05-21T00:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncheckboxTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="teardown" is-config="true" duration-ms="97" started-at="2019-05-21T00:38:37Z" finished-at="2019-05-21T00:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="setup" is-config="true" duration-ms="15677" started-at="2019-05-21T00:38:38Z" finished-at="2019-05-21T00:38:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_checknewcontact()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="verify_checknewcontact" duration-ms="675" started-at="2019-05-21T00:38:53Z" depends-on-methods="com.CRM.qa.tests.CRMContactTest.verifycreatenewcontact" finished-at="2019-05-21T00:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_checknewcontact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMContactTest@4157f54e]" name="teardown" is-config="true" duration-ms="110" started-at="2019-05-21T00:38:54Z" finished-at="2019-05-21T00:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.CRM.qa.tests.CRMContactTest -->
+      <class name="com.CRM.qa.tests.CRMLoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="setup" is-config="true" duration-ms="7254" started-at="2019-05-21T00:41:24Z" finished-at="2019-05-21T00:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userloginTest()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="userloginTest" duration-ms="5566" started-at="2019-05-21T00:41:31Z" finished-at="2019-05-21T00:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userloginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="teardown" is-config="true" duration-ms="103" started-at="2019-05-21T00:41:37Z" finished-at="2019-05-21T00:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="setup" is-config="true" duration-ms="7109" started-at="2019-05-21T00:41:37Z" finished-at="2019-05-21T00:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifloginpagetitleTest()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="verifloginpagetitleTest" duration-ms="6" started-at="2019-05-21T00:41:44Z" finished-at="2019-05-21T00:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifloginpagetitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="teardown" is-config="true" duration-ms="98" started-at="2019-05-21T00:41:44Z" finished-at="2019-05-21T00:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="setup" is-config="true" duration-ms="8663" started-at="2019-05-21T00:41:44Z" finished-at="2019-05-21T00:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyCRMlogoTest()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="verifyCRMlogoTest" duration-ms="39" started-at="2019-05-21T00:41:53Z" finished-at="2019-05-21T00:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCRMlogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.qa.tests.CRMLoginTest@47f6473]" name="teardown" is-config="true" duration-ms="91" started-at="2019-05-21T00:41:53Z" finished-at="2019-05-21T00:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.CRM.qa.tests.CRMLoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

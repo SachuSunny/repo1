@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRM">
+  <test name="CRMTestcases">
+    <classes>
+      <class name="com.CRM.qa.tests.CRMLoginTest"/>
+      <class name="com.CRM.qa.tests.CRMLandingpageTest"/>
+      <class name="com.CRM.qa.tests.CRMContactTest"/>
+    </classes>
+  </test> <!-- CRMTestcases -->
+</suite> <!-- CRM -->
